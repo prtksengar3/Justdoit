@@ -1,0 +1,287 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-allprime<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "allprime",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-antidiagnol<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "antidiagnol",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-anybaseaddition<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "anybaseaddition",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-anybasesubtraction<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "anybasesubtraction",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-anybasetoanybase<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "anybasetoanybase",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-anybasetodec<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "anybasetodec",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-butterfly<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "butterfly",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-countdigits<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "countdigits",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-cross<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "cross",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-dectoanybase<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "dectoanybase",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-diagnol<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "diagnol",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-diamond<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "diamond",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-diamond1<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "diamond1",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-digitofno<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "digitofno",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-fibonacci<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-gcdlcm<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "gcdlcm",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-heart<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "heart",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-heart1<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "heart1",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-hollowdiamond<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "hollowdiamond",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-inverseofnum<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "inverseofnum",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern1<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern10<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pattern10",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern13<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pattern13",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern15<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pattern15",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern16<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pattern16",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern17<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pattern17",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern18<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pattern18",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern19<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pattern19",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern2<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern20<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pattern20",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern3<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pattern3",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern4<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pattern4",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern6<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pattern6",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-prime<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-primefactorization<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "primefactorization",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pythogoreantriplet<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pythogoreantriplet",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pythogoreantriplet1<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "pythogoreantriplet1",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-reversenum<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "reversenum",
+            "projectName": "Foundation_fdffcde8"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-rotate<Foundation_fdffcde8>",
+            "request": "launch",
+            "mainClass": "rotate",
+            "projectName": "Foundation_fdffcde8"
+        }
+    ]
+}
